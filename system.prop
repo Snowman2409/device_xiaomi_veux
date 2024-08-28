@@ -41,3 +41,8 @@ vm.min_free_kbytes=4096
 ro.lmk.low=64
 ro.lmk.medium=96
 ro.lmk.high=128
+
+# Additional Props
+ro.droidx.maintainer= Bad_Snowman
+ro.droidx.chipset=Snapdragon 695
+ro.droidx.display_resolution=6.67" AMOLED 1080x2400
